@@ -1,0 +1,30 @@
+How to become a Turing student
+
+1 Apply to Turing
+  1.1 Go to turing.io
+  1.2 Research which program (FE or BE) fits best for you
+    1.2.1 Choose program
+  1.3 Watch video on how to apply
+  1.4 Login using your Facebook or Github account
+  1.5 Complete all sections of application
+    1.5.1 Answer and complete the Basic Identity and Contact Information section
+    1.5.2 Answer and complete the Work History section
+    1.5.3 Answer and complete the Logic quiz
+  1.6 Wait to hear back from Turing
+    if you aren't hearing back from Turing
+      1.6.1 Email erin@turing.io
+  1.7 Complete in person interview
+    1.7.1 Wait a few hours to hear back from that
+2 Research financing options
+  2.1 You've been accepted!
+  2.2 Start to research financing and loan options
+    2.2.1 Create a financing plan
+    2.2.2 Select which module you will be attending
+3 Start mod 0
+  3.1 Wait to receive your laptop
+  3.2 Once laptop is received complete computer setup tasks
+  3.3 You're ready to start mod 0
+    3.3.1 Stay on top of all homework
+    3.3.2 Take neat and specific notes
+    3.3.3 Ask questions when things are unclear
+    3.3.4 Stay involved and engaged 
