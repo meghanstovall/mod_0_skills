@@ -1,0 +1,13 @@
+Object: Dinner Plates
+
+Attributes:
+color: "White"
+totalNumberOfDishes: 50
+numberOfDirtyDishes: 23
+allDishesClean: false
+
+Methods:
+changeColor: color = "Tan"
+calculateNumberOfCleanDishes: 50 - 23 = 27
+cleanedTenDishes: 23 - 10 = 13
+cleanAllDishes: allDishesClean = true, numberOfDirtyDishes = 0
