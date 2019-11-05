@@ -1,0 +1,14 @@
+Class: Waiters
+
+Attributes:
+name (string)
+yearsOfExperience (integer)
+numberOfTables (integer)
+currentlyWorking (boolean)
+hasVacationTime (boolean)
+
+Methods:
+addOneYearOfExperience (adds 1 onto yearsOfExperience attribute)
+assignedAnotherTable (adds 1 onto numberOfTables attribute)
+usedAllVacationTime (changes hasVacationTime attribute)
+isTheirOffDay (changes currentlyWorking attribute)
