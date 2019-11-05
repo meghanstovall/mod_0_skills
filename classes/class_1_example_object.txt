@@ -1,0 +1,13 @@
+Object: Sally
+
+Attribute:
+yearsOfExperience: 5
+numberOfTables: 3
+currentlyWorking: true
+hasVacationTime: true
+
+Methods:
+addOneYearOfExperience: yearsOfExperience + 1 = 6
+assignedAnotherTable: numberOfTables + 1 = 4
+updateVacationTime: hasVacationTime = false
+isTheirOffDay: currentlyWorking = false
