@@ -1,0 +1,13 @@
+Class: Dishes
+
+Attributes:
+color (string)
+totalNumberOfDishes (integer)
+numberOfDirtyDishes (integer)
+allDishesClean (boolean)
+
+Methods:
+changeColor (changes the color attribute)
+calculateNumberOfCleanDishes (subtracts numberOfDirtyDishes from totalNumberOfDishes)
+cleanedTenDishes (subtracts 10 from numberOfDirtyDishes)
+cleanAllDishes (change allDishesClean attribute and change numberOfDirtyDishes to 0)
