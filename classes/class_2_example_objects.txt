@@ -1,13 +1,13 @@
-Object: Dinner Plates
+Object: Dinner Plate
 
 Attributes:
 color: "White"
 totalNumberOfDishes: 50
-numberOfDirtyDishes: 23
-allDishesClean: false
+brokeDish: false
+clean: false
 
 Methods:
 changeColor: color = "Tan"
-calculateNumberOfCleanDishes: 50 - 23 = 27
-cleanedTenDishes: 23 - 10 = 13
-cleanAllDishes: allDishesClean = true, numberOfDirtyDishes = 0
+brokenDish: totalNumberOfDishes = 49, brokeDish = true
+buyTenMoreDishes: totalNumberOfDishes = 59
+cleanAllDishes: clean = true

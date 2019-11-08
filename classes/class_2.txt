@@ -1,13 +1,13 @@
-Class: Dishes
+Class: Dish
 
 Attributes:
 color (string)
 totalNumberOfDishes (integer)
-numberOfDirtyDishes (integer)
-allDishesClean (boolean)
+brokeDish (boolean)
+clean (boolean)
 
 Methods:
 changeColor (changes the color attribute)
-calculateNumberOfCleanDishes (subtracts numberOfDirtyDishes from totalNumberOfDishes)
-cleanedTenDishes (subtracts 10 from numberOfDirtyDishes)
-cleanAllDishes (change allDishesClean attribute and change numberOfDirtyDishes to 0)
+brokenDish (subtracts 1 from totalNumberOfDishes and change brokeDish to true)
+buyTenMoreDishes (Adds ten to totalNumberOfDishes attribute)
+cleanAllDishes (change clean attribute)

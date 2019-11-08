@@ -1,4 +1,4 @@
-Class: Waiters
+Class: Waiter
 
 Attributes:
 yearsOfExperience (integer)
